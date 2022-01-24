@@ -20,7 +20,12 @@ body {
     justify-content: center;
 }
 
-
+a:link {
+    color:rgb(87, 10, 110)
+}
+a:hover {
+    color:navy;
+}
 
 #me {
     width:400px;
@@ -41,15 +46,18 @@ body {
     padding: 50px;
 }
 
-h1 { 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h1 {  
+    font-family: 'Vollkorn', serif;
+    text-shadow: 2px 2px rgb(164, 143, 177);
 }
 
-h2 { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h2 { 
+    font-family: 'Vollkorn', serif;
     font-size: 22px !important;
     font-weight: bolder !important;}
-h3 { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+h3 {
+    font-family: 'Vollkorn', serif;
 font-size: 18px !important;}
 p {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Ubuntu Mono', monospace;
 }
