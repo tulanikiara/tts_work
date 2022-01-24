@@ -1,0 +1,55 @@
+ /**html {
+   background-color: rgb(231, 186, 228);
+   background-image: url("bloom.png");
+  
+}*/
+  
+
+.navbar {
+    color:blanchedalmond !important;
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px; 
+    background-color: rgba(232, 222, 235, 0.87) !important;
+    
+}
+
+.container-fluid {
+    justify-content: center;
+}
+
+
+
+#me {
+    width:400px;
+    border-radius: 20%
+}
+
+#self {
+   justify-content: center;
+   padding-top: 25px;
+   
+}
+
+#abt {
+    margin-top: 25px;
+}
+
+#words {
+    padding: 50px;
+}
+
+h1 { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px !important;
+    font-weight: bolder !important;}
+h3 { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px !important;}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
